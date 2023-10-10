@@ -57,7 +57,7 @@ sections:
           company_url: 'https://bxtheory.com/'
           company_logo:
           location: Toronto, Canada
-          date_start: '2023-07-01'
+          date_start: '2022-07-01'
           date_end: '2023-08-01'
           description: Developed analytic solutions for financial and operational restructuring opportunities
         - title: Data Scientist
