@@ -54,7 +54,7 @@ sections:
       items:
         - title: Tech Co-founder
           company: b(x) Theory Inc.
-          company_url: 'https://bxtheory.com/'
+          company_url:
           company_logo:
           location: Toronto, Canada
           date_start: '2022-07-01'
@@ -62,15 +62,15 @@ sections:
           description: Developed analytic solutions for financial and operational restructuring opportunities
         - title: Data Scientist
           company: Godaddy Inc.
-          company_url: 'https://www.godaddy.com/'
+          company_url:
           company_logo:
           location: Santa Clara, United States (Remote)
           date_start: '2021-05-01'
           date_end: '2022-07-01'
           description: Collaborated within a high-performing data science team that develops deep learning models for GoDaddy’s core global domain business
         - title: Data Scientist
-          company: Royal Bank of Canada - DNA Group
-          company_url: 'https://www.rbcroyalbank.com/'
+          company: Royal Bank of Canada (RBC) - DNA Group
+          company_url:
           company_logo:
           location: Toronto, Canada (Remote)
           date_start: '2020-01-05'
@@ -78,7 +78,7 @@ sections:
           description: Collaborated with RBC's Canadian Banking Operations to develop and deploy NLP solutions, which was designed to improve current business process \& saved expenses per year.
         - title: Various Internships in Data Science and Software Engineering
           company: RBC Capital Markets, RBC Global Cybersecurity, and Marsh Canada Ltd
-          company_url: 'https://www.rbcroyalbank.com/'
+          company_url:
           company_logo:
           location: Toronto, Canada
           date_start: '2017-05-01'
