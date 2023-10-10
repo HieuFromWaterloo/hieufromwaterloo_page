@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: "Minimal"
+  theme_day: ""
   theme_night: "Minimal"
   font: "Minimal"
   font_size: M
