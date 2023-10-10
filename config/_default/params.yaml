@@ -12,7 +12,6 @@ appearance:
   font_size: M
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
