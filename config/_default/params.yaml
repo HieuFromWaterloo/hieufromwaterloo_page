@@ -34,7 +34,7 @@ header:
     enable: true
     align: l
     show_logo: false
-    show_language: true
+    show_language: false
     show_day_night: true
     show_search: false
     highlight_active_link: true
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: "https://github.com/HieuFromWaterloo/hieufromwaterloo.github.io"
+    url: "https://github.com/HieuFromWaterloo/hieufromwaterloo_page"
     content_dir: content
     branch: main
   avatar:
