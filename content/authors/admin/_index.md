@@ -8,7 +8,7 @@ last_name: Nguyen
 
 # Status emoji
 status:
-  icon:
+  icon: 🐢
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,7 @@ role: Data Scientist
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Waterloo
-    url: https://uwaterloo.ca/
+    url: https://uwaterloo.ca/math/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
