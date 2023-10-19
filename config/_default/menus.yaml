@@ -16,8 +16,8 @@ main:
   # - name: Posts
   #   url: "#posts"
   #   weight: 20
-  - name: Projects
-    url: "#projects"
+  - name: Research
+    url: "#research"
     weight: 40
   # - name: Talks
   #   url: "#talks"
