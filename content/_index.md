@@ -184,6 +184,10 @@ sections:
           tag: Machine Learning
         - name: Stat/Math
           tag: StatMath
+        - name: ML Engineer
+          tag: ML Engineer
+        - name: Data Engineer
+          tag: Data Engineer
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
