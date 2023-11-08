@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Full Stack Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,9 +72,9 @@ email: 'hieu.nguyen@uwaterloo.ca'
 highlight_name: true
 ---
 
-Hi, I'm a data scientist with a solid educational foundation in statistics and computer science from the University of Waterloo, Canada. My expertise centers on solving data science challenges, predominantly in Natural Language Processing (NLP), across diverse industries, including finance, cybersecurity, and commercial domain names.
+Hi, I'm a Full Stack Data Scientist with a firm grounding in statistics and computer science from the University of Waterloo. My focus and commitment lies in solving complex data science problems, with a special focus on Natural Language Processing (NLP). My experience spans across vital sectors such as finance, cybersecurity, and the commercial domain name industry.
 
 I have a proven track record in building end-to-end, high-performance machine learning and deep learning services, ensuring their seamless scalability and robust high availability on cloud platforms.
 
-I'm deeply passionate about statistical/machine learning, deep learning (particularly in the context of NLP and Reinforcement Learning), and software/data engineering.
+I'm deeply passionate about statistical/machine learning, deep learning (particularly in the context of NLP and Reinforcement Learning), and machine learning/data engineering.
 {style="text-align: justify;"}
