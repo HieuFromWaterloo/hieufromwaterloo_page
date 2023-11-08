@@ -28,8 +28,7 @@ bio:
 interests:
   - Statistical/Machine Learning
   - Deep Learning (NLP + RL)
-  - Software/Data Engineering
-  - Macroeconomics + Finance
+  - Machine Learning/Data Engineering
 
 # Education to show in About widget
 education:
