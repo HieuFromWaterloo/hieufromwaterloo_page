@@ -164,7 +164,7 @@ sections:
   - block: portfolio
     id: research
     content:
-      title: Research
+      title: Research/Projects
       filters:
         folders:
           - project
