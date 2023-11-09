@@ -71,7 +71,7 @@ email: 'hieu.nguyen@uwaterloo.ca'
 highlight_name: true
 ---
 
-Hi, I'm a Full Stack Data Scientist with a firm grounding in statistics and computer science from the University of Waterloo. My focus and commitment lies in solving complex data science problems, with a special focus on Natural Language Processing (NLP). My experience spans across vital sectors such as finance, cybersecurity, and the commercial domain name industry.
+Hi, I'm a Full Stack Data Scientist with a firm grounding in statistics and computer science from the University of Waterloo. My focus and commitment center on solving complex data science problems, with a special focus on Natural Language Processing (NLP). My experience spans across vital sectors such as finance, cybersecurity, and the commercial domain name industry.
 
 I have a proven track record in building end-to-end, high-performance machine learning and deep learning services, ensuring their seamless scalability and robust high availability on cloud platforms.
 

@@ -1,6 +1,6 @@
 ---
 title: AI Research Agent - R0D1
-summary: R0D1 is an autonomous research agent powered by Flask API. The end-to-end pipeline from Docker containerization, image push to AWS ECR, and deployment to AWS ECS Fargate with a load balancer is fully automated with Github Actions.
+summary: R0D1 is an autonomous research agent powered by Flask API. The end-to-end pipeline from Docker containerization, image push to AWS ECR, and deployment to AWS ECS Fargate with a load balancer is fully automated with Github Actions
 tags:
   - Machine Learning
   - Deep Learning
