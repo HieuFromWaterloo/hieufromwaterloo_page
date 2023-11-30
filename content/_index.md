@@ -136,9 +136,9 @@ sections:
           date_end: ''
           date_start: '2023-11-30'
           description: ''
-          organization: DeepLearning.AI
+          organization: Coursera
           organization_url: https://www.coursera.org
-          title: Generative AI with Large Language Models
+          title: Generative AI with Large Language Models - Deeplearning.ai
           url: https://www.coursera.org/account/accomplishments/certificate/WFME2P9Z27MM
     design:
       columns: '2'
