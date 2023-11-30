@@ -132,6 +132,14 @@ sections:
           organization_url: https://www.coursera.org
           title: Software Design and Architecture - University of Alberta
           url: https://www.coursera.org/account/accomplishments/specialization/YYFTLH83ETCZ
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/WFME2P9Z27MM
+          date_end: ''
+          date_start: '2023-11-30'
+          description: ''
+          organization: DeepLearning.AI
+          organization_url: https://www.coursera.org
+          title: Generative AI with Large Language Models
+          url: https://www.coursera.org/account/accomplishments/certificate/WFME2P9Z27MM
     design:
       columns: '2'
   # - block: collection

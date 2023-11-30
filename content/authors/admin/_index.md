@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Full Stack Data Scientist
+role: Data Scientist/Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,7 +73,7 @@ highlight_name: true
 
 Hi, I'm a Full Stack Data Scientist with a firm grounding in statistics and computer science from the University of Waterloo. My focus and commitment center on solving complex data science problems, with a special focus on Natural Language Processing (NLP). My experience spans across vital sectors such as finance, cybersecurity, and the commercial domain name industry.
 
-I have a proven track record in building end-to-end, high-performance machine learning and deep learning services, ensuring their seamless scalability and robust high availability on cloud platforms.
+I have a proven track record in building end-to-end, high-performance machine learning and deep learning services on time and within budget constraints, ensuring their seamless scalability and robust high availability on cloud platforms.
 
 I'm deeply passionate about statistical/machine learning, deep learning (particularly in the context of NLP and Reinforcement Learning), and machine learning/data engineering.
 {style="text-align: justify;"}
