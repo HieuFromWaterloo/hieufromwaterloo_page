@@ -61,7 +61,7 @@ sections:
           date_end: '2023-09-01'
           description: Developed analytic solutions for financial and operational restructuring opportunities
         - title: Data Scientist
-          company: Godaddy Inc.
+          company: GoDaddy Inc.
           company_url:
           company_logo:
           location: Santa Clara, United States (Remote)
