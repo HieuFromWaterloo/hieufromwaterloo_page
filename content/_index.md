@@ -106,7 +106,7 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Deep Learning Specialization - DeepLearning.AI
+          title: Deep Learning Specialization - DeepLearning.ai
           url: https://www.coursera.org/account/accomplishments/specialization/5AJPZYV3EFG5
         - certificate_url: uploads/certs/cousera_advanced_ml.pdf
           date_end: ''
@@ -138,7 +138,7 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Generative AI with Large Language Models - Deeplearning.ai
+          title: Generative AI with Large Language Models - DeepLearning.ai
           url: https://www.coursera.org/account/accomplishments/certificate/WFME2P9Z27MM
     design:
       columns: '2'
