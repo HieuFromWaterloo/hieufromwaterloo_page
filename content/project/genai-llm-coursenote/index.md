@@ -1,5 +1,5 @@
 ---
-title: Generative AI with Large Language Models (LLMs) Course Notes
+title: Generative AI with Large Language Models Course Notes
 summary: Comprehensive course notes of "Generative AI with Large Language Models (LLMs)" Course, offered by DeepLearning.ai
 tags:
   - Machine Learning
