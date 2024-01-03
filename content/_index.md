@@ -59,7 +59,7 @@ sections:
           location: Toronto, Canada
           date_start: '2022-07-01'
           date_end: '2023-09-01'
-          description: Developed analytic solutions for financial and operational restructuring opportunities
+          description: Our team researched and developed machine learning services to help our clients manage risks and identify opportunities in restructuring/special situations.
         - title: Data Scientist
           company: GoDaddy Inc.
           company_url:
@@ -67,7 +67,7 @@ sections:
           location: Santa Clara, United States (Remote)
           date_start: '2021-04-01'
           date_end: '2022-07-01'
-          description: Collaborated within a high-performing data science team that develops deep learning models for GoDaddy’s core global domain business
+          description: Our team researched, developed & deployed (end to end) deep neural nets for GoDaddy’s core global domain business, namely domain names auto completion, generation, ranking, fraud detection & domain names valuation.
         - title: Data Scientist
           company: Royal Bank of Canada (RBC) - DNA Group
           company_url:
@@ -75,7 +75,7 @@ sections:
           location: Toronto, Canada (Remote)
           date_start: '2020-01-05'
           date_end: '2021-04-01'
-          description: Collaborated with RBC's Canadian Banking Operations to develop and deploy NLP solutions, which was designed to improve current business process \& saved expenses per year.
+          description: Our team collaborated with RBC's Canadian Banking Operations to develop and deploy NLP solutions, which was designed to improve current business process \& saved significant cost in manual labour annually.
         - title: Various Internships in Data Science and Software Engineering
           company: RBC Capital Markets, RBC Global Cybersecurity, and Marsh Canada Ltd
           company_url:
