@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ML x Engineering x Business
+role: ML/AI x Engineering x Business
 
 # Organizations/Affiliations to show in About widget
 organizations:

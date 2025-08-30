@@ -4,7 +4,7 @@
 
 **Hieu Quoc Nguyen's** academic and professional portfolio website built with Hugo Academic Theme. This site showcases my journey as a Full Stack Data Scientist with expertise in machine learning, deep learning, and data engineering.
 
-**Live Site**: [hieufromwaterloo.netlify.app](https://hieufromwaterloo.netlify.app/)
+**Live Site**: [hieufromwaterloo.ca](https://hieufromwaterloo.ca/) or [hieufromwaterloo.netlify.app](https://hieufromwaterloo.netlify.app/)
 
 ## Local Development Setup
 
