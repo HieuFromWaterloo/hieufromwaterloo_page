@@ -13,32 +13,32 @@ sections:
       username: admin
   - block: features
     content:
-      title: Skills
+      title: Core Technologies & Skills
       items:
         - name: Machine/Deep Learning
-          description:
+          description: PyTorch, scikit-learn for NLP, search/ranking, and distributed ML systems with focus on business impact
           icon: robot
           icon_pack: fas
-        - name: Python
-          description: 
+        - name: Programming & Data
+          description: Python, SQL for scalable data processing and analysis with statistical and mathematical foundations
           icon: python
           icon_pack: fab
-        - name: Database (SQL/noSQL)
-          description: 
+        - name: Infrastructure & Cloud
+          description: AWS, Databricks, Docker, Kubernetes, Terraform for high-performance ML system deployment
+          icon: cloud
+          icon_pack: fas
+        - name: Data Engineering
+          description: Spark, Apache Airflow, dbt, Redis, MongoDB for robust data pipelines and distributed systems
           icon: database
           icon_pack: fas
-        - name: AWS
-          description: 
-          icon: aws
-          icon_pack: fab
-        - name: Github
-          description: 
+        - name: MLOps & Automation
+          description: GitHub Actions, CI/CD pipelines, model versioning and monitoring for scalable ML operations
           icon: github
           icon_pack: fab
-        - name: Docker
-          description:
-          icon: docker
-          icon_pack: fab
+        - name: Web Frameworks
+          description: Flask, Django for building production ML services and APIs with high availability
+          icon: code
+          icon_pack: fas
   - block: experience
     id: experiences
     content:
@@ -52,30 +52,66 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Tech Co-founder
-          company: b(x) Theory Inc.
+        - title: "Senior Data Scientist"
+          company: "Indeed - Trust & Safety Science"
+          company_url: https://indeed.com
+          company_logo:
+          location: Toronto, Canada
+          date_start: '2025-03-01'
+          date_end: ''
+          description: |2-
+            • We help people get jobs while keeping our users and platform safe
+        - title: Machine Learning Engineer/Data Scientist
+          company: "McAfee - Browser Security Product"
+          company_url: https://mcafee.com
+          company_logo:
+          location: Toronto, Canada
+          date_start: '2024-03-01'
+          date_end: '2025-03-01'
+          description: |2-
+            • Led end-to-end MLOps Strategy & Cloud Architecture for McAfee's Search Acceleration initiative (half billion dollar business)
+
+            • Designed and deployed high-performance ML infrastructure using Terraform, Databricks Assets Bundle (IaC) and GitHub Actions, reducing model deployment time by over 50%
+
+            • Led ML service design and deployment on AWS supporting 200M+ weekly active devices with 99.99% availability worldwide and 95th percentile response time under 100ms
+        - title: Technical Co-Founder
+          company: "b(x) Theory - Insolvency Analytics"
           company_url:
           company_logo:
           location: Toronto, Canada
-          date_start: '2022-07-01'
+          date_start: '2022-08-01'
           date_end: '2023-09-01'
-          description: Our team researched and developed machine learning services to help our clients manage risks and identify opportunities in restructuring/special situations.
-        - title: Data Scientist
-          company: GoDaddy Inc.
-          company_url:
+          description: |2-
+            • Along with the team, did whatever necessary to actualize b(x) Theory, an innovative fintech service that leverages high quality data, intuitive visualization and machine learning to transform how financial advisors, c-suite executives manage risks and identify opportunities in restructuring/special situations in Canada.
+
+        - title: NLP Data Scientist
+          company: "GoDaddy - Domain Search/Ranking"
+          company_url: https://godaddy.com
           company_logo:
-          location: Santa Clara, United States (Remote)
+          location: Toronto, Canada
           date_start: '2021-04-01'
-          date_end: '2022-07-01'
-          description: Our team researched, developed & deployed (end to end) deep neural nets for GoDaddy’s core global domain business, namely domain names auto completion, generation, ranking, fraud detection & domain names valuation.
-        - title: Data Scientist
-          company: Royal Bank of Canada (RBC) - DNA Group
-          company_url:
+          date_end: '2022-08-01'
+          description: |2-
+            • Led end-to-end research, development, and deployment of novel NLP deep learning services on AWS (ECS, EC2, EMR, SageMaker)
+
+            • Achieved under 20ms inference latency per request with 99.99% service availability across global markets for domain name auto-completion
+
+            • Delivered 18% uplift in premium domain sales, 16% surge in search volumes, and 30% increase in click-through rates, resulting in $20M+ USD annual SERP revenue increase
+
+            • Enhanced performance through personalization based on language, region, and device preferences using FNet, Transformers, BERT, CNN, and bi-directional LSTM architectures
+        - title: NLP Data Scientist
+          company: "Royal Bank of Canada - Email & Payment Analytics"
+          company_url: https://rbc.com
           company_logo:
-          location: Toronto, Canada (Remote)
-          date_start: '2020-01-05'
+          location: Toronto, Canada
+          date_start: '2020-01-01'
           date_end: '2021-04-01'
-          description: Our team collaborated with RBC's Canadian Banking Operations to develop and deploy NLP solutions, which was designed to improve current business process \& saved significant cost in manual labour annually.
+          description: |2-
+            • Led R&D of NLP solution for Canadian Banking Operations to detect crucial payment-related emails from commercial clients nationwide
+
+            • Transformed unsupervised text classification into semi-supervised learning paradigm, boosting true positive rates by 19% while reducing false negatives by 35%
+
+            • Achieved projected annual savings of $1M CAD through advanced techniques including topic modeling with LDA, XGBoost and BERT embeddings
         - title: Various Internships in Data Science and Software Engineering
           company: RBC Capital Markets, RBC Global Cybersecurity, and Marsh Canada Ltd
           company_url:
@@ -83,7 +119,7 @@ sections:
           location: Toronto, Canada
           date_start: '2017-05-01'
           date_end: '2019-09-01'
-          description:
+          description: Gained foundational experience in data science, software engineering, and financial technology across multiple industry-leading organizations.
     design:
       columns: '2'
   - block: accomplishments
@@ -142,33 +178,33 @@ sections:
           url: https://www.coursera.org/account/accomplishments/certificate/WFME2P9Z27MM
     design:
       columns: '2'
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Posts
-  #     subtitle: ''
-  #     text: ''
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
+  - block: collection
+    id: posts
+    content:
+      title: Personal Blog
+      subtitle: 'Notes on ML/AI'
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
   - block: portfolio
     id: research
     content:
@@ -297,4 +333,36 @@ sections:
   #         captcha: false
   #   design:
   #     columns: '2'
+  - block: contact
+    id: contact
+    content:
+      title: Get In Touch
+      subtitle: I'm always interested in discussing new opportunities, collaborations, or just connecting with fellow data science enthusiasts.
+      text: |-
+        Feel free to reach out if you'd like to discuss machine learning projects, data engineering solutions, or potential collaborations. I'm particularly interested in opportunities involving NLP, deep learning, and scalable ML systems.
+      # Contact details (add or remove contact options as necessary)
+      # email: hieu.nguyen@uwaterloo.ca
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: Follow me on Twitter
+          link: 'https://twitter.com/hq2ng'
+        - icon: linkedin
+          icon_pack: fab
+          name: Connect on LinkedIn
+          link: 'https://www.linkedin.com/in/hieu-q-nguyen/'
+        - icon: github
+          icon_pack: fab
+          name: Check out my code
+          link: 'https://github.com/hieufromwaterloo'
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '2'
 ---
