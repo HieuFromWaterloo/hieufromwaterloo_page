@@ -44,9 +44,9 @@ categories:
   - AI Tools
 ---
 
-# [Claude Code: Complete Beginner's Guide](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main)
+# Claude Code: Complete Beginner's Guide
 
-This comprehensive guide includes prompts from lessons, essential commands, best practices, and everything you need to get started with Claude Code effectively.
+[📁 **View Course Files on GitHub**](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main)
 
 ## Table of Contents
 

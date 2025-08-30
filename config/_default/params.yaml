@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: "Ocean"
-  font: "Native"
-  font_size: L
+  theme_day: "minimal"
+  font: "native"
+  font_size: M
 
 # SEO
 marketing:
@@ -105,6 +105,9 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+# Custom styling
+plugins_css: ["custom"]
 
 # Security
 
