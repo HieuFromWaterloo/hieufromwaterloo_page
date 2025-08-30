@@ -140,9 +140,23 @@ Claude Code is an AI-powered coding assistant that helps you understand, write, 
     
     ```
     
-2. **Claude Code is Built-in**:
-    - Cursor comes with Claude Code pre-installed
-    - No additional extension needed!
+2. **Install Claude Code Extension**:
+    - Open Cursor
+    - Go to Extensions (`Cmd + Shift + X`)
+    - Search for "Claude Code" or "Anthropic Claude"
+    - Click "Install"
+    
+    **Alternative: Command Line**
+    
+    ```bash
+    # If you have npm installed
+    npm install -g @anthropic-ai/claude-code
+    
+    # Or use the extension marketplace
+    cursor --install-extension anthropic.claude-code
+    
+    ```
+    
 3. **Setup Authentication**:
     - Open Cursor
     - Go to Settings (`Cmd + ,`)
@@ -156,9 +170,23 @@ Claude Code is an AI-powered coding assistant that helps you understand, write, 
     - Download from: https://cursor.sh/
     - Run the installer as Administrator
     - Follow the installation wizard
-2. **Claude Code is Built-in**:
-    - Cursor comes with Claude Code pre-installed
-    - No additional extension needed!
+2. **Install Claude Code Extension**:
+    - Open Cursor
+    - Go to Extensions (`Ctrl + Shift + X`)
+    - Search for "Claude Code" or "Anthropic Claude"
+    - Click "Install"
+    
+    **Alternative: Command Line**
+    
+    ```bash
+    # If you have npm installed
+    npm install -g @anthropic-ai/claude-code
+    
+    # Or use the extension marketplace
+    cursor --install-extension anthropic.claude-code
+    
+    ```
+    
 3. **Setup Authentication**:
     - Open Cursor
     - Go to Settings (`Ctrl + ,`)
