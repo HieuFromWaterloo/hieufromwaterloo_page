@@ -19,9 +19,7 @@ main:
   - name: Research/Projects
     url: "#research"
     weight: 40
-  - name: Contact
-    url: "#contact"
-    weight: 50
+
   # - name: CV
   #   url: uploads/resume.pdf
   #   weight: 40

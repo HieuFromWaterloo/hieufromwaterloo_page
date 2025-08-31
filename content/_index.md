@@ -16,7 +16,7 @@ sections:
       title: Core Technologies & Skills
       items:
         - name: Machine/Deep Learning
-          description: PyTorch, scikit-learn for NLP, search/ranking, and distributed ML systems with focus on business impact
+          description: NLP/LLM, search/ranking, and distributed ML systems with focus on business impact
           icon: robot
           icon_pack: fas
         - name: Programming & Data
@@ -333,36 +333,5 @@ sections:
   #         captcha: false
   #   design:
   #     columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Get In Touch
-      subtitle: I'm always interested in discussing new opportunities, collaborations, or just connecting with fellow data science enthusiasts.
-      text: |-
-        Feel free to reach out if you'd like to discuss machine learning projects, data engineering solutions, or potential collaborations. I'm particularly interested in opportunities involving NLP, deep learning, and scalable ML systems.
-      # Contact details (add or remove contact options as necessary)
-      # email: hieu.nguyen@uwaterloo.ca
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Follow me on Twitter
-          link: 'https://twitter.com/hq2ng'
-        - icon: linkedin
-          icon_pack: fab
-          name: Connect on LinkedIn
-          link: 'https://www.linkedin.com/in/hieu-q-nguyen/'
-        - icon: github
-          icon_pack: fab
-          name: Check out my code
-          link: 'https://github.com/hieufromwaterloo'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+
 ---
