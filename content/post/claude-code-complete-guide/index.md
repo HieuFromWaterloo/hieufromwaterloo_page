@@ -9,10 +9,10 @@ summary: A comprehensive guide covering installation, essential commands, best p
 projects: []
 
 # Date published
-date: '2025-01-01T00:00:00Z'
+date: '2025-08-31T00:00:00Z'
 
 # Date updated
-lastmod: '2025-01-01T00:00:00Z'
+lastmod: '2025-08-31T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -46,7 +46,7 @@ categories:
 
 # Claude Code: Complete Beginner's Guide
 
-[📁 **View Course Files on GitHub**](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main)
+[**View Course Files on GitHub**](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main)
 
 ## Table of Contents
 
